@@ -1,4 +1,3 @@
- ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*i3laWIzy2jaemiCURVPrMg.jpeg)
 <h1 align="center">Hi 👋, I'm Esra Koç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
