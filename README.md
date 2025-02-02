@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/esraa_kkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esraa_kkoc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esra-koc-097309224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esra-koc-097309224" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esraa-kkoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esra-koc-097309224" height="30" width="40" /></a>
 <a href="https://instagram.com/esraa.kkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esraa.kkoc" height="30" width="40" /></a>
 </p>
 
